@@ -1,0 +1,49 @@
+.page{
+	background-color: #212121 !important;
+}
+.grid li{
+	    background: #212121 !important;
+		border-bottom-color: #c1292e !important;
+}
+h1{
+	color: #fff !important;
+}
+svg{
+    fill: #fff !important;
+}
+.app *{
+	color: #fff !important;
+} 
+.MuiPaper-root {
+	background-color: #212121 !important;
+	color: #fff !important;
+	
+}
+.ag-row  *{
+		background-color: #212121 !important;
+		color: #fff !important;
+}
+.ag-center-cols-viewport{
+	background-color: #212121 !important;
+		color: #fff !important;
+}
+.ag-header-row *{
+	background-color: #212121 !important;
+		color: #c1292e !important;
+}
+table *{
+	background-color: #212121 !important;
+	background: #212121 !important;
+	color: #fff !important;
+}
+table {
+	padding: 0px !important;
+}
+.insight_info{
+	background-color: #212121 !important;
+	background: #212121 !important;
+	color: #fff !important;
+}
+p{
+	color: #fff !important;
+}

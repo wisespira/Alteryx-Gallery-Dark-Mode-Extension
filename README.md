@@ -1,1 +1,2 @@
-# Alteryx-Gallery-Dark-Mode-Extension
+# Gallery-Dark-Mode
+Alteryx Gallery Dark Mode Extension Chrome
