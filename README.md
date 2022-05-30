@@ -1,0 +1,1 @@
+# Alteryx-Gallery-Dark-Mode-Extension
